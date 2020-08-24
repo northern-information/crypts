@@ -21,4 +21,4 @@ _either time or ghosts have rendered them all nameless_
 - Name the directory whatever you wish.
 - Submit a PR.
 
-Submitting a PR is your attestation that the samples are yours to share and license under the [CC0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+Submitting a PR is your attestation that the samples are yours to share and license under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) license.
