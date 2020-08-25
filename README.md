@@ -8,10 +8,10 @@ _either time or ghosts have rendered them all nameless_
 ## Installing
 
 - `cd /home/we/dust/audio && git clone git@github.com:/tyleretters/crypts crypts`
-- Launch arcologies.
-- Navigate to the `pset` window.
+- Launch **arcologies**.
+- Navigate to the norns parameters menu.
 - Select a crypt directory.
-- In arcologies, crypts will now source from the chosen directory.
+- In **arcologies**, crypts will now source from the chosen directory.
 
 ## Contributing
 
