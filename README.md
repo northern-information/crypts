@@ -7,7 +7,8 @@ _either time or ghosts have rendered them all nameless_
 
 ## Installing
 
-- `cd /home/we/dust/audio && git clone git@github.com:/tyleretters/crypts crypts`
+- Download, unzip, and rename from `crypts-main` to `crypts`. Move to `/dust/audio/crypts`.
+- (or `cd /home/we/dust/audio && git clone git@github.com:/tyleretters/crypts crypts`)
 - Launch **arcologies**.
 - Navigate to the norns parameters menu.
 - Select a crypt directory.
