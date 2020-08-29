@@ -16,10 +16,6 @@ _either time or ghosts have rendered them all nameless_
 
 ## Contributing
 
-- Create 6 samples.
-- Name them: `1.wav`, `2.wav`, `3.wav`, `4.wav`, `5.wav`, & `6.wav`
-- Create a directory.
-- Name the directory whatever you wish. Keep it around 10 letters so the parameters menu looks nice.
-- Submit a PR.
+Follow the instructions on the [PR template](https://github.com/tyleretters/crypts/blob/main/.github/pull_request_template.md).
 
 Submitting a PR is an attestation the samples are yours to share under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) license.
