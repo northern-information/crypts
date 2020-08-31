@@ -3,7 +3,7 @@ _either time or ghosts have rendered them all nameless_
 
 ![crypts](https://tyleretters.github.io/arcologies-docs/assets/images/crypts-landscape.jpg)
 
-**crypts** is a community sample pack / DLC for **[arcologies](https://tyleretters.github.io/arcologies-docs)**.
+**crypts** is a community sample pack / DLC for **[arcologies](https://tyleretters.github.io/arcologies-docs)**. Join the discussion on [lines](https://l.llllllll.co/crypts).
 
 ## Installing
 
