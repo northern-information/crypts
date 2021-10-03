@@ -3,7 +3,7 @@ _either time or ghosts have rendered them all nameless_
 
 ![crypts](https://northern-information.github.io/arcologies-docs/assets/images/crypts-landscape.jpg)
 
-**crypts** is a community sample pack / DLC for **[arcologies](https://tyleretters.github.io/arcologies-docs)**. Join the discussion on [lines](https://l.llllllll.co/crypts).
+**crypts** is a community sample pack / DLC for **[arcologies](https://northern-information.github.io/arcologies-docs)**. Join the discussion on [lines](https://l.llllllll.co/crypts).
 
 ## Installing
 
@@ -16,6 +16,6 @@ _either time or ghosts have rendered them all nameless_
 
 ## Contributing
 
-Follow the instructions on the [PR template](https://github.com/tyleretters/crypts/blob/main/.github/pull_request_template.md).
+Follow the instructions on the [PR template](https://github.com/northern-information/crypts/blob/main/.github/pull_request_template.md).
 
 Submitting a PR is an attestation the samples are yours to share under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) license.
